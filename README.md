@@ -1,1 +1,1 @@
-Here we create Facebool Clone Website using Tailwind CSS
+Here we create Facebook Clone Website using Tailwind CSS
